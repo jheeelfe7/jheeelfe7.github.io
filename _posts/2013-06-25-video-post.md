@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "A Post with a Video"
-date:   2016-03-15
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+title:  "투명 페트병 분리 배출"
+date:   2021-12-24
+excerpt: "환경부, 12월 25일부터 전국 단독주택 지역에서 투명 페트병 별도 분리 배출제도 시행"
 tag:
 - sample
 - post

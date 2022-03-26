@@ -3,7 +3,7 @@ layout: post
 title:  "2022년 Earth Hour 소등 캠페인"
 date:   2022-03-24
 excerpt: "3월 26일 20:30~21:30, 지구를 위한 1시간을 보내주세요!"
-tags: [환경보호, 소등캠페인, 카드뉴스]
+tags: [환경보호, 소등캠페인, 카드뉴스, 박제희]
 comments: False
 ---
 # 2022년 Earth Hour 소등 캠페인

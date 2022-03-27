@@ -1,37 +1,20 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About  Earth, Us
+tags: [김제희, 박제희, 이여름, 임윤서]
+date: 2018-01-04
 comments: false
 ---
-    
-<center><a href="http://jheeelfe7.github.io/"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Earth, Us
+저희의 그룹명으로 Earth, Us라고 지었습니다.
+탄소중립은 이산화탄소를 배출한 만큼 이산화탄소를 흡수하는 대책을 세워<br> 
+이산화탄소의 실질적인 배출량을 ‘0’으로 만든다는 개념으로 <br>
+지구위에 살아가는 우리들이 지금 관심가져야할 과제입니다.<br>
+<br>
+지구가 있기에 우리가 존재하고,<br>
+지금 그 지구가 위험에 처해있는 상황으로 그 지구와 우리를 생각하자는 의미를 가지고 있습니다.<br>
+인류의 욕심만 생각하고 행동한다면, 결코 나아갈 수 없다고 생각합니다.<br>
+<br>
+그렇기 위해선 저희는 지구와 함께 나아가야하고<br>
+그 관계를 Earth, Us라고 표현하였습니다.
